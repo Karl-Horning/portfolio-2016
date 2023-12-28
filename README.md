@@ -1,10 +1,12 @@
 # Karl Horning's Portfolio
 
+![Portfolio Preview](./src/img/portfolio_preview.gif)
+
 ## Table of Contents
 
 - [Description](#description)
-- [Preview](#preview)
 - [Features](#features)
+- [Demo](#demo)
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -17,15 +19,15 @@
 
 Welcome to Karl Horning's portfolio website! This project showcases Karl's skills and projects as a business English teacher and coder based in Portugal. The website features various sections including an about me page, portfolio, contact form, and social links.
 
-## Preview
-
-![Portfolio Preview](https://c2.staticflickr.com/9/8519/29692122161_3197f06724_k.jpg)
-
 ## Features
 
 - Responsive design for a seamless experience across different devices.
 - Customized styling using Bootstrap, Font Awesome, and Google Fonts.
 - Sections include about me, portfolio, contact form, and social links.
+
+## Demo
+
+View the live demo on CodePen: [Karl Horning's Portfolio Webpage](https://codepen.io/karlhorning/pen/GjoZzq).
 
 ## Prerequisites
 
