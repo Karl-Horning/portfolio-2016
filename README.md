@@ -14,6 +14,7 @@
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
+- [Author](#author)
 
 ## Description
 
